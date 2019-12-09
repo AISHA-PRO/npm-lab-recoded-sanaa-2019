@@ -1,0 +1,19 @@
+{
+  "name": "npm-lab-recoded-sanaa-2019",
+  "version": "1.0.0",
+  "description": "desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AISHA-PRO/npm-lab-recoded-sanaa-2019.git"
+  },
+  "author": "Aisha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AISHA-PRO/npm-lab-recoded-sanaa-2019/issues"
+  },
+  "homepage": "https://github.com/AISHA-PRO/npm-lab-recoded-sanaa-2019#readme"
+}
