@@ -4,8 +4,8 @@
   "description": "desc",
   "main": "index.js",
   "scripts": {
-    "test": "command"
-  },
+  "test": "echo 'Hello World!'"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AISHA-PRO/npm-lab-recoded-sanaa-2019.git"
